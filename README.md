@@ -4,5 +4,9 @@
 ##Latest
 + [1차 고군분투기](https://github.com/kodevops/struggle/tree/master/list/1)
 
+##Next
++ [2차 고군분투기](https://github.com/kodevops/struggle/tree/master/list/2)
+
 ###List
++ [2차 고군분투기](https://github.com/kodevops/struggle/tree/master/list/2)
 + [1차 고군분투기](https://github.com/kodevops/struggle/tree/master/list/1)
