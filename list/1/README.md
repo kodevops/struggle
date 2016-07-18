@@ -1,7 +1,7 @@
 #1차 고군분투기
-+ @manggu: MongoDB 고군분투기
-+ @sangjun: Web Crawler 고군분투기
-+ @oz: 신입의 광고업계 고군분투기
++ [@manggu: Database 고군분투기](https://github.com/kodevops/struggle/tree/master/list/1)
++ [@sangjun: Web Crawler 고군분투기](http://www.slideshare.net/richellin/web-crawler-64046366)
++ [@oz: 광고업 고군분투기](http://www.slideshare.net/hyeonjaekim73/ss-64044745)
 
 ```
 제목 : 제1차 Kodevelopers 고군분투기
