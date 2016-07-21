@@ -45,4 +45,6 @@ http://goo.gl/forms/obd4Sx2Ob1qAWHiB3
 
 #Kode Challenge
 @sangjun → @kimsuhyuk</br>
-@oz → @ahn-soohan 
+@oz → @ahn-soohan</br>
+@manggu → @chatmate</br>
+자진 발표→ @mangi</br>
