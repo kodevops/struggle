@@ -47,5 +47,5 @@ http://goo.gl/forms/obd4Sx2Ob1qAWHiB3
 @sangjun → @kimsuhyuk</br>
 @oz → @ahn-soohan</br>
 @manggu → @chatmate</br>
-자진 발표→ @mangi</br>
-추천 발표→ @haneri</br>
+자진 발표 → @mangi</br>
+추천 발표 → @haneri</br>
