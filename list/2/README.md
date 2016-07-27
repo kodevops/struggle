@@ -20,6 +20,9 @@
  다른 회의실에 손님들이 있으므로, 회의실에서 너무 큰소리로 이야기는 삼가해주세요.
 ```
 
++[Add Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=제2차+고군분투기(Kodevelopers)&dates=20160826T093000Z/20160826T123000Z&details=https://github.com/kodevops/struggle/tree/master/list/2&location=東京都世田谷区玉川一丁目14番1号&sprop=name:kodevelopers)
+
+
 #Kode Challenge
 @haneri → </br>
 @mangi → </br>
