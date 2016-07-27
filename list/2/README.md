@@ -18,6 +18,20 @@
  음주 불가
  뒷풀이 미정
  다른 회의실에 손님들이 있으므로, 회의실에서 너무 큰소리로 이야기는 삼가해주세요.
+ 
+내용:
+한 세션당 30분 발표(20분 발표 + 질문 10분)
+
+순서:
+1. 인사 및 발표 안내
+2. 발표 시작
+3. 깨끗이 뒷정리
+
+비고:
+1. 명함 교환(명함 챙겨 오세요)
+2. 노트북 지참가능(무선인터넷&전원코드 지원)
+3. 스티커 및 물품(책) 공유하실 분 환영
+4. 장소 및 기타 문의사항은 장소 제공자 @manggu 앞으로 연락주세요.
 ```
 
 +[Add Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=제2차+고군분투기(Kodevelopers)&dates=20160826T093000Z/20160826T123000Z&details=https://github.com/kodevops/struggle/tree/master/list/2&location=東京都世田谷区玉川一丁目14番1号&sprop=name:kodevelopers)
