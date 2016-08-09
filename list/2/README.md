@@ -3,7 +3,7 @@
 + [@mangi: 미제](https://www.facebook.com/groups/1726012127643525/) 
 + [@kimsuhyuk: 미제](https://www.facebook.com/groups/1726012127643525/)
 + [@ahn-soohan: 미제](https://www.facebook.com/groups/1726012127643525/)
-
++ [@fish: 기계 친화성을 중심으로 접근한 최적화 기법](http://www.slideshare.net/deview/2b2)
 ```
 제목 : 제2차 Kodevelopers 고군분투기
 일시 : 2016년8월26일 19시(18:30 ~ 21:30)
@@ -42,4 +42,5 @@
 @mangi → </br>
 @kimsuhyuk → </br>
 @ahn-soohan → </br>
+@fish → </br>
 연장 → @chatmate</br>
