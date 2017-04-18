@@ -56,7 +56,6 @@ ex) Question
 | 8차 | @riverleo | 	사내 시스템 소개 |
 | 8차 | @nari | 	비공개(광고) |
 | 8차 | @laby0525 | 	일본 문과생은 어떻게 살아남나? 그리고 채용에 관해  |
-| 9차 | @oz-dev | CloudFront 낮은 비용으로 운영하기 |
 | 9차 | @sangjun | REVIEN (개인 프로젝트) |
 | 9차 | @yaksaa21 | REACTIVE & JAVA |
 | 9차 | @oz-dev | CloudFront 낮은 비용으로 운영하기 |
