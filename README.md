@@ -31,7 +31,7 @@ ex) Question
 | 1차 | @manggu | 	MongoDB 고군분투기 |
 | 1차 | @sangjun | 	Web Crawler 고군분투기 |
 | 1차 | @oz-dev | 	광고업 고군분투기 |
-| 2차 | @sangjun | 	New proximity-based experiences by iOS/Android devices (부제: BLE Tech) |
+| 2차 | @haneri | 	New proximity-based experiences by iOS/Android devices (부제: BLE Tech) |
 | 2차 | @ahn-soohan | 	Dsp and the prediction |
 | 2차 | @kimsuhyuk | 	IT 고군 분투기 |
 | 2차 | @fish | 	기계 친화성을 중심으로 접근한 최적화 기법 |
