@@ -60,4 +60,7 @@ ex) Question
 | 9차 | @sangjun | REVIEN (개인 프로젝트) |
 | 9차 | @yaksaa21 | REACTIVE & JAVA |
 | 9차 | @oz-dev | CloudFront 낮은 비용으로 운영하기 |
+| 10차 | @haneri | Taxi & Ad Teck |
+| 10차 | @tsukiwamoon | 방송시스템 |
+| 10차 | @jeongwon | 실무 딥러닝 |
 
