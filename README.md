@@ -63,4 +63,7 @@ ex) Question
 | 10차 | @haneri | Taxi & Ad Teck |
 | 10차 | @tsukiwamoon | 방송시스템 |
 | 10차 | @jeongwon | 실무 딥러닝 |
+| 11차 | @manggu | Blockchain 살짝 찔러 보기 |
+| 11차 | @msna | 엔지니어의 책정리 |
+| 11차 | @fish | 동적 프로그래밍 |
 
