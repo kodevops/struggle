@@ -66,4 +66,14 @@ ex) Question
 | 11차 | @manggu | Blockchain 살짝 찔러 보기 |
 | 11차 | @msna | 엔지니어의 책정리 |
 | 11차 | @fish | 동적 프로그래밍 |
-
+| 12차 | @oz-dev | AWSKRUG도쿄지부 활동 |
+| 12차 | @sangjun | 데이터로 보는 고군분투기 |
+| 12차 | @fish | 자작DB |
+| 13차 | @lee19 | spotinst로 spot instance를 사용해서 AWS 비용 절감하기 |
+| 13차 | @doil6317 | ARKit + Unity를 이용한 iOS AR어플개발 |
+| 14차 | @tsukiwamoon | PostgreSQL 내부 맛보기 |
+| 14차 | @daebum-lee | 클라우드 마이닝 맛보기 |
+| 15차 | @sangjun | Resize EBS(Amazon Elastic Block Store) |
+| 15차 | @ninetin | DDD(Domain Driven Design) |
+| 15차 | @rickyl1126 | Bad Practices using BLE |
+| 15차 | @ahn-soohan | 코딩인터뷰 |
