@@ -4,6 +4,8 @@
 그중에 발표자가 하나를 골라서 발표.<br />
 참가자는 듣고 싶은 주제에 대해서는 댓글로 +1을 날려주세요.<br />
 
+[고군분투기 발표 데이터](https://docs.google.com/spreadsheets/d/1fJI5bmQcFcGDDW6A5EGgjKg8YSAIbYKMvQAGn8pcnTw/edit#gid=0)
+
 ##Rule
 [Example](https://github.com/kodevops/struggle/issues/1)를 참고 하세요.<br />
 ```
@@ -77,3 +79,7 @@ ex) Question
 | 15차 | @ninetin | DDD(Domain Driven Design) |
 | 15차 | @rickyl1126 | Bad Practices using BLE |
 | 15차 | @ahn-soohan | 코딩인터뷰 |
+| 16차 | @tsukiwamoon | 도쿄 디즈니 리조트 살펴보기 |
+| 16차 | @manggu | ELK |
+| 16차 | @daebum-lee | owasp zap 고군분투기 |
+| 16차 | @June | 언어학도에서 AI엔지니어 되기까지 |
