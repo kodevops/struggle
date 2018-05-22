@@ -83,3 +83,21 @@ ex) Question
 | 16차 | @manggu | ELK |
 | 16차 | @daebum-lee | owasp zap 고군분투기 |
 | 16차 | @June | 언어학도에서 AI엔지니어 되기까지 |
+| 17차 | @ike | 카메라&렌즈 스펙 파헤치기 (니콘위주) |
+| 17차 | @johnzon3 | 해킹 입문 |
+| 17차 | @daebum-lee | kubernetes Introduction |
+| 17차 | @tsukiwamoon | Encryption In PostgreSQL |
+| 18차 | @daebum-lee | Chaos Engineering |
+| 18차 | @sangjun | Chrome Extension 개발해보기 |
+| 18차 | @manggu | OracleSQL 꿀팁 대방출 |
+| 19차 | @simonTokyo | 엔지니어가 모르는 AI, 양자컴퓨터와 IBM의 오픈소스와의 관계, 그것을 지지하는 IBM Cloud |
+| 19차 | @요다 | Selenide: CONCISE UI TESTS IN JAVA |
+| 19차 | @doil6317 | iOS Animation 고군분투기 |
+| 19차 | @ju.inho | 데이터베이스의 성능향상을 위한 기본정보 |
+| 20차 | @jaesungmoon | 모바일앱 개발에서의 폴리글랏 프로그래밍 |
+| 20차 | @biwol | Walletless의 구현가능성과 현재. LINE Pay의 전자머니에 대한 설명 |
+| 21차 | @MyoungJin Park | haproxy에 의한 분산서버 구성 |
+| 21차 | @Paolo Ahn(安 敬原) | 【디지털 포렌직의 기초 – Prefetch活用】 |
+| 21차 | @fish | 처음 만나는 웹어셈블리 |
+
+
