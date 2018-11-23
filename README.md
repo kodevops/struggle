@@ -99,5 +99,14 @@ ex) Question
 | 21차 | @MyoungJin Park | haproxy에 의한 분산서버 구성 |
 | 21차 | @Paolo Ahn(安 敬原) | 【디지털 포렌직의 기초 – Prefetch活用】 |
 | 21차 | @fish | 처음 만나는 웹어셈블리 |
-
-
+| 22차 | @u02 | 웹회사에서 네이티브 엔지니어로 살아남기 |
+| 22차 | @lee19 | IT consulting firm data scientists |
+| 23차 | @manggu | ELK2 |
+| 23차 | @daebum-lee | Hello, GDPR! |
+| 24차 | @kimsuhyuk | SRE홅아보기 |
+| 24차 | @fish | 비공개 |
+| 24차 | @tsukiwamoon | 비공개 |
+| 25차 | @doli6317 | iOS UITest Introduction and Best Practice. |
+| 25차 | @saryongkang | 6개의 legacy Android / iOS 앱을 8개월만에 리뉴얼 한 이야기 |
+| 26차 | @manggu | Rakuten Travel Tag System Architecture |
+| 26차 | @daebum-lee | 훑어보는 아키텍처 설계이야기 |
