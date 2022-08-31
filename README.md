@@ -108,5 +108,24 @@ ex) Question
 |              |  | 24차     | @tsukiwamoon | 비공개 |
 | 2018년10월23일 | IBM Japan  | 25차     | @doli6317 | iOS UITest Introduction and Best Practice. |
 |              |  | 25차     | @saryongkang | 6개의 legacy Android / iOS 앱을 8개월만에 리뉴얼 한 이야기 |
-|              |  | 26차     | @manggu | Rakuten Travel Tag System Architecture |
+| 2018년11월15일 | 株式会社LIFULL | 26차     | @manggu | Rakuten Travel Tag System Architecture |
 |              |  | 26차     | @daebum-lee | 훑어보는 아키텍처 설계이야기 |
+| 2018년12월13일 | 株式会社LINE | 27차     | @JUNSIKLEE | 누구나 다 아는 초 간단 부양가족 고군분투기 |
+|              |  | 27차     | @Sa-ryong Kang | 시니어 SW 엔지니어의 이직 고군분투기 |
+|              |  | 27차     | @Moon, Insung | 한국 국민연금 해약기 - 최초 문의 부터 돈 받을때까지 초 간단 프로세스! |
+|              |  | 27차     | @sangjun | 부업 앙케이트 결과 발표 및 부업에 관해서 |
+|              |  | 27차     | @Sangwhan Moon | Emerging Web: 확장성을 고려한 Web API 동향과 기능 다각화 |
+| 2019년01월17일 | ヤフー株式会社 | 28차     | @jonggu | Mysql innodb architecture |
+|              |  | 28차     | @juinho | Mysql 가용성 |
+| 2019년02월14일 | 株式会社フリークアウト | 29차     | @ahn-soohan | Failing the coding interview |
+|              |  | 29차     | @Sa-ryong Kang | 시니어 SW엔지니어의 이직 고군분투기 (2) |
+| 2019년03월14일 | KOTRA（大韓貿易投資振興公社）| 30차     | @hunylee | QA의 경험과 테스팅 기법 |
+|              |  | 30차     | @Sungwook Han | QA != TEST |
+| 2019년04월18일 | 株式会社ミクシィ | 31차     | @sangjun | 제 1차 Kodeveloper 앙케이트 |
+| 2019년05월16일 | 日本アイ・ビー・エム株式会社 | 32차     | @haneri | 기본적인 Web Architecture 구성을 위한 신입 엔지니어 Syllabus |
+|              |  | 32차     | @Junhwan Kim | 소프트웨어 장인을 향한 긴 여정 |
+| 2019년07월25일 | 株式会社サイバーエージェント | 33차     | @ohgook kwon | 새로운 서비스 런칭 고군분투기 |
+|              |  | 33차     | @ninetin | 새로운 서비스 런칭 고군분투기 |
+| 2019년 08월 28일 | 日本アイ・ビー・エム株式会社 | 34차     | @mj.park | AWS 환경 구축 및 운영과 보안 - 1편 AWS환경 구축 |
+| 2019년 09월 19일 | 日本アイ・ビー・エム株式会社 | 35차     | @Minseong Na | IDaaS를 포함한 XaaS |
+|              |  | 35차     | @Manggu | GKE소개 |35
